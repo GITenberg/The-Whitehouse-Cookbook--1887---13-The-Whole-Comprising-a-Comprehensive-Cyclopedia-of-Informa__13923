@@ -1,0 +1,38 @@
+_repo: The-Whitehouse-Cookbook--1887---13-The-Whole-Comprising-a-Comprehensive-Cyclopedia-of-Informa__13923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gillette, F. L. (Fanny Lemira)
+    aliases:
+    - Gillette, Mrs. (Fanny Lemira)
+    - Gillette, Fanny Lemira Camp
+    birthdate: 1828
+    deathdate: 1926
+    gutenberg_agent_id: '5290'
+    url: http://www.gutenberg.org/2009/agents/5290
+  - agent_name: Ziemann, Hugo
+    gutenberg_agent_id: '34450'
+    url: http://www.gutenberg.org/2009/agents/34450
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Formulas, recipes, etc.'
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+- !lcsh 'Table service'
+title: "The Whitehouse Cookbook (1887)\r\nCooking, Toilet and Household Recipes, Menus,\
+  \ Dinner-Giving, Table Etiquette, Care of the Sick, Health Suggestions, Facts Worth\
+  \ Knowing, Etc., Etc.\r\nThe Whole Comprising a Comprehensive Cyclopedia of Information\
+  \ for the Home"
+url: http://www.gutenberg.org/ebooks/13923

@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '34450'
     url: http://www.gutenberg.org/2009/agents/34450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13923#The-Whitehouse-Cookbook--1887---13-The-Whole-Comprising-a-Comprehensive-Cyclopedia-of-Informa_
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-11-02'
 gutenberg_type: Text
